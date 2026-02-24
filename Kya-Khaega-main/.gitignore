@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+venv/
+*.pyc
+
+# Node
+frontend/node_modules
+frontend/build
+.pnp
+.pnp.js
+
+# OS / IDE
+.DS_Store
+.vscode/
